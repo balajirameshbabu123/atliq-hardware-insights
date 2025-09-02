@@ -1,2 +1,2 @@
 # atliq-hardware-insights
-![atliq.png](atliq.png)
+![Atliq.png](Atliq.png)
